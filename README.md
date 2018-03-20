@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 # Magic-Leap-Demo
-Basic Magic Leap Demo.
-=======
+Demo showcasing Unity with Magic Leap.
+
+Install Magic Leap remote and run Simulator: https://creator.magicleap.com/learn/tutorials/tutorial-getting-started-with-magic-leap-remote
+
+Make sure to be running UNITY MLTP1.
+
 # upm-package-template-lumin
 AR Project Template
 
@@ -10,4 +13,3 @@ This template uses Unity’s built in rendering pipeline with good default setti
 
 Package Name: com.unity.template.lumin
 Package Version: 0.0.1
->>>>>>> Standard setup
